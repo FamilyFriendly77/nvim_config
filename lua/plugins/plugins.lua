@@ -12,6 +12,7 @@ return {
       require("mason-lspconfig").setup({
         -- Automatically install the following LSPs
         ensure_installed = {
+          "asm_lsp",
           "lua_ls",
           "rust_analyzer",
           "clangd",
