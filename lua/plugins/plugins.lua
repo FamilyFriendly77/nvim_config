@@ -18,6 +18,9 @@ return {
           "clangd",
           "eslint",
           "pylsp",
+          "html",
+          "tailwindcss",
+          "cssls",
           "gopls",
         },
       })

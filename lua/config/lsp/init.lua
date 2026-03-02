@@ -1,3 +1,6 @@
 vim.lsp.enable("pylsp")
 vim.lsp.enable("gopls")
 vim.lsp.enable("asm-lsp")
+vim.lsp.enable("html-lsp")
+vim.lsp.enable("tailwindcss-language-server")
+vim.lsp.enable("css-lsp")
