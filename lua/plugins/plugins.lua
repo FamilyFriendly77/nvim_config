@@ -22,6 +22,7 @@ return {
           "tailwindcss",
           "cssls",
           "gopls",
+          "ts_ls"
         },
       })
     end,
