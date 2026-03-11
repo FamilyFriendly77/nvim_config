@@ -22,7 +22,8 @@ return {
           "tailwindcss",
           "cssls",
           "gopls",
-          "ts_ls"
+          "ts_ls",
+          "htmx",
         },
       })
     end,
