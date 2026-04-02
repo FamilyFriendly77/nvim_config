@@ -24,6 +24,7 @@ return {
           "gopls",
           "ts_ls",
           "htmx",
+          "jsonls"
         },
       })
     end,
